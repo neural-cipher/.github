@@ -43,8 +43,8 @@ findings that can be inspected, repeated, and argued with.
 ---
 
 <p align="center">
-  <a href="https://neuralcipher.org">neuralcipher.org</a> ·
-  <a href="mailto:hello@neuralcipher.org">hello@neuralcipher.org</a>
+  <a href="https://neuralcipher.net">neuralcipher.net</a> ·
+  <a href="mailto:info@neuralcipher.net">info@neuralcipher.net</a>
 </p>
 
 <p align="center"><sub>Bring a model that resists explanation.</sub></p>
